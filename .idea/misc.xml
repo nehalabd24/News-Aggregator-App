@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/debug/res/layout/activity_splashscreen.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/debug/res/layout/appbar.xml" value="0.1697061803444782" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/drawable/bg_background.xml" value="0.1785" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/drawable/customborder.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/drawable/header.xml" value="0.1165" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/drawable/simpleborder.xml" value="0.1685" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/drawable/splash_backgronud.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/font/headerfont.xml" value="0.22777777777777777" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/layout/activity_news_details.xml" value="0.3103448275862069" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/layout/activity_splash_screen.xml" value="0.1703125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/layout/appbar.xml" value="0.1697061803444782" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/layout/row.xml" value="0.33" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/NewsAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.294" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
